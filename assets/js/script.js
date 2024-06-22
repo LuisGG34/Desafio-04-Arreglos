@@ -13,7 +13,7 @@ const propiedades_alquiler = [
     {
     nombre: 'Casa Grande y buena conectividad',
     src: './assets/img/casaarriendo2.jpg',
-    descripcion: '',
+    descripcion: 'Esta hermosa casa ofrece una vista genial',
     ubicacion: 'Buin Oriente # 456',
     habitaciones: 4,
     baños: 3,
@@ -24,7 +24,7 @@ const propiedades_alquiler = [
     {
     nombre: 'Casa comoda y segura',
     src: './assets/img/casaarriendo3.jpg',
-    descripcion: '',
+    descripcion: 'Esta hermosa casa ofrece una vista genial',
     ubicacion: 'Buin Poniente # 123',
     habitaciones: 5,
     baños: 3,
@@ -35,7 +35,7 @@ const propiedades_alquiler = [
     {
     nombre: 'Casa de ensueño',
     src: './assets/img/casaarriendo4.jpg',
-    descripcion: '',
+    descripcion: 'Esta hermosa casa ofrece una vista genial',
     ubicacion: 'Buin Poniente # 456',
     habitaciones: 3,
     baños: 2,

@@ -2,7 +2,7 @@ const propiedades_venta = [
     {
     nombre: 'casaventa1',
     src: './assets/img/casaventa1.jpg',
-    descripcion: 'lida casa',
+    descripcion: 'Esta hermosa casa ofrece una vista genial',
     ubicacion: 'los guindos',
     habitaciones: 2,
     baños: 2,
@@ -13,7 +13,7 @@ const propiedades_venta = [
     {
     nombre: 'casaventa2',
     src: './assets/img/casaventa2.jpg',
-    descripcion: 'linda casa',
+    descripcion: 'Esta hermosa casa ofrece una vista genial',
     ubicacion: 'los guindos',
     habitaciones: 4,
     baños: 2,
@@ -24,7 +24,7 @@ const propiedades_venta = [
     {
     nombre: 'casaventa3',
     src: './assets/img/casaventa3.jpg',
-    descripcion: 'linda casa',
+    descripcion: 'Esta hermosa casa ofrece una vista genial',
     ubicacion: 'los guindos',
     habitaciones: 3,
     baños: 3,
@@ -35,7 +35,7 @@ const propiedades_venta = [
     {
     nombre: 'casaventa4',
     src: './assets/img/casaventa1.jpg',
-    descripcion: 'linda casa',
+    descripcion: 'Esta hermosa casa ofrece una vista genial',
     ubicacion: 'los guindos',
     habitaciones: 6,
     baños: 4,
